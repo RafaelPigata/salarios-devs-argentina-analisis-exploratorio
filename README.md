@@ -74,3 +74,6 @@ jupyter notebook notebook.ipynb
 ```
 
 El notebook descarga los datos automáticamente desde la URL indicada arriba; no requiere ningún archivo local.
+
+# salarios-devs-argentina-analisis-exploratorio
+EDA de sueldos en tecnología (Argentina): salario vs. seniority, género, lenguajes y educación.
