@@ -62,7 +62,7 @@ La Parte 1 detectó la brecha de género visualmente. Acá se pone a prueba con 
 
 ![Distribución de salarios por género y seniority](parte2_inferencia_estadistica/images/distribucion_salarios_genero_seniority.png)
 
-**Control de robustez:** se repitió el análisis filtrando solo dedicación Full-Time (~96% de la muestra), para descartar que la brecha se explique por diferencias en la carga horaria. El resultado se mantuvo prácticamente igual (~$597.000 en Senior, ~$334.000 en Semi-Senior, no significativo en Junior), lo que refuerza que la brecha no se explica por dedicación laboral.
+**Control de robustez:** se repitió el análisis filtrando solo dedicación Full-Time (aproximadamente el 96% de la muestra), para descartar que la brecha se explique por diferencias en la carga horaria. El resultado se mantuvo prácticamente igual (~$597.000 en Senior, ~$334.000 en Semi-Senior, no significativo en Junior), lo que refuerza que la brecha no se explica por dedicación laboral.
 
 **Comunicación:** como cierre, se diseñó una pieza de comunicación de datos para audiencia no técnica, resumiendo el hallazgo principal en un formato visual.
 
